@@ -34,8 +34,11 @@ Começamos com a instalação das ferramentas necessárias, como o Jest e o Supe
 
 Instalar as versões específicas e as tipagens correspondentes, tudo como dependências de desenvolvimento. 
 
-Ao final, conferimos o package.json para garantir que tudo foi instalado corretamente.
-desenvolveu uma aplicação de entregas. Aprendemos a criar a API e a implementar testes automatizados, focando nos controllers de usuário e sessões.
+Conclusão :
+=
+
+Ao final, conferi o package.json para garantir que tudo foi instalado corretamente,
+desenvolvi uma aplicação de entregas e Aprendi a criar a API e a implementar testes automatizados, focando nos controllers de usuário e sessões.
 
 
 
